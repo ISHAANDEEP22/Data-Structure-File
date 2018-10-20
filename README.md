@@ -37,7 +37,7 @@ Menu driven Program to demonstrate the implementation of various operations on a
 LAB EXPERIMENT 8(LAB8.cpp)
 Write a program to accept N numbers in an array, and then sort the array using Insertion Sort. Then accept a number from the user and insert it in the array according to the sequential order
 
-LAB EXPERIMENT 9()
+LAB EXPERIMENT 9(LAB9.cpp)
 Write a program to accept N numbers in an array, and then sort the array using Quick Sort.
 
 LAB EXPERIMENT 10()
