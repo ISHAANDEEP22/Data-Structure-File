@@ -13,7 +13,7 @@ Write a program to accept N numbers from the user and store them in an array. Th
 lab experiment 3(lab3.cpp)
 Write a program to accept N integers from the user and store them in an array. Sort the array in ascending order using Bubble sort. Then accept another number from the user, search whether that number exists in the array using Binary Search. If it does, display its index and if it doesn’t, then print that the number is not found in the array.
 
-LAB EXPERIMENT 4(untitled7.cpp)
+LAB EXPERIMENT 4(.cpp)
 Write a menu driven program that implements the following operations on a   
 doubly linked list and Circular Linked List :
 •	Insert a new element at the beginning ,end and in-between the given list
@@ -21,7 +21,7 @@ doubly linked list and Circular Linked List :
 •	Search an element
 •	Display all the elements 
 
-LAB EXPERIMENT 5()
+LAB EXPERIMENT 5(LAB5.cpp)
 Write a menu driven program that implements the following operations on a   
 Stack(either implement as Linear array and as Linked list) :
 •	Push 
