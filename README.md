@@ -34,7 +34,7 @@ Write a program to demonstrate the use of stack in converting arithmetic express
 LAB EXPERIMENT 7(LAB7.cpp)
 Menu driven Program to demonstrate the implementation of various operations on a Circular queue (using a linear array and  a linked list)
 
-LAB EXPERIMENT 8()
+LAB EXPERIMENT 8(LAB8.cpp)
 Write a program to accept N numbers in an array, and then sort the array using Insertion Sort. Then accept a number from the user and insert it in the array according to the sequential order
 
 LAB EXPERIMENT 9()
