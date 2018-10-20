@@ -21,7 +21,7 @@ doubly linked list and Circular Linked List :
 •	Search an element
 •	Display all the elements 
 
-LAB EXPERIMENT 5(LAB5.cpp)
+LAB EXPERIMENT 5(LAB5.cpp,LAB5b.cpp)
 Write a menu driven program that implements the following operations on a   
 Stack(either implement as Linear array and as Linked list) :
 •	Push 
