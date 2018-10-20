@@ -40,7 +40,7 @@ Write a program to accept N numbers in an array, and then sort the array using I
 LAB EXPERIMENT 9(LAB9.cpp)
 Write a program to accept N numbers in an array, and then sort the array using Quick Sort.
 
-LAB EXPERIMENT 10()
+LAB EXPERIMENT 10(LAB10.cpp)
 Write a program to accept N numbers from the user in one array and M numbers in another array. Then, sort the arrays using Selection Sort and then merge these two arrays using Merge Sort.
 
 LAB EXPERIMENT 11()
