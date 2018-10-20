@@ -28,7 +28,7 @@ Stack(either implement as Linear array and as Linked list) :
 •	Pop  
 •	Display Top of the stack
 
-LAB EXPERIMENT 6()
+LAB EXPERIMENT 6(LAB6.cpp)
 Write a program to demonstrate the use of stack in converting arithmetic expression from infix notation to postfix notation and in evaluating arithmetic postfix expression.
 
 LAB EXPERIMENT 7()
