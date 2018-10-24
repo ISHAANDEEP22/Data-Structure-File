@@ -53,7 +53,7 @@ o	Pre-order Traversal
 o	In-order Traversal 
 o	Post-order Traversal
 
-LAB EXPERIMENT 12()
+LAB EXPERIMENT 12(LAB12.cpp)
 Sort the list of integers using heap tree (Heap sort)
 
 LAB EXPERIMENT 13()
