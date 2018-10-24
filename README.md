@@ -43,7 +43,7 @@ Write a program to accept N numbers in an array, and then sort the array using Q
 LAB EXPERIMENT 10(LAB10.cpp)
 Write a program to accept N numbers from the user in one array and M numbers in another array. Then, sort the arrays using Selection Sort and then merge these two arrays using Merge Sort.
 
-LAB EXPERIMENT 11()
+LAB EXPERIMENT 11(LAB11.cpp)
 Write a menu driven program that implements the following operations on a   
 Binary search tree :
 •	Insert a new element 
