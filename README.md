@@ -13,7 +13,7 @@ Write a program to accept N numbers from the user and store them in an array. Th
 lab experiment 3(lab3.cpp)
 Write a program to accept N integers from the user and store them in an array. Sort the array in ascending order using Bubble sort. Then accept another number from the user, search whether that number exists in the array using Binary Search. If it does, display its index and if it doesn’t, then print that the number is not found in the array.
 
-LAB EXPERIMENT 4(.cpp)
+LAB EXPERIMENT 4(LAb4.cpp)
 Write a menu driven program that implements the following operations on a   
 doubly linked list and Circular Linked List :
 •	Insert a new element at the beginning ,end and in-between the given list
@@ -56,5 +56,5 @@ o	Post-order Traversal
 LAB EXPERIMENT 12(LAB12.cpp)
 Sort the list of integers using heap tree (Heap sort)
 
-LAB EXPERIMENT 13()
+LAB EXPERIMENT 13(LAB13(a).cpp/Lab13(b).cpp)
 Program including all Operations on Graph and illustrate the traversals using DFS and BFS
